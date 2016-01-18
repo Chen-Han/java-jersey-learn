@@ -1,0 +1,30 @@
+*.class
+.classpath
+.project
+.settings
+.idea
+target
+*.iml
+update.sql
+create.sql
+
+# symlinks (added by sagar) #
+/resources
+/resources_test
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# vim #
+.*.swp
+
+# System files
+.DS_Store
+
+# Emacs
+*~
+
+/log/
+/target/
